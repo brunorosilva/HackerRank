@@ -22,7 +22,7 @@ def checkMagazine(magazine, note):
     return True
 
 
-    print(notecheck)
+    #print(notecheck)
 if __name__ == '__main__':
     mn = input().split()
 
